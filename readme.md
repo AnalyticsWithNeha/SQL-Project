@@ -42,8 +42,9 @@ The database consists of the following tables:
    ```bash
    git clone https://github.com/AnalyticsWithNeha/SQL-Project.git
    cd music_db
+2. Create the database and tables by executing the SQL script in a MySQL environment.
 
-**Contributing**
+## Contributing
 Contributions are welcome! If you'd like to improve the analysis or add new features, feel free to fork the repository and submit a pull request.
 
 ## Licence
