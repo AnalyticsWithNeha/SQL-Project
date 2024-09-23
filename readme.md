@@ -40,7 +40,7 @@ The database consists of the following tables:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/music_db.git
+   git clone https://github.com/AnalyticsWithNeha/SQL-Project.git
    cd music_db
 
 **Contributing**
